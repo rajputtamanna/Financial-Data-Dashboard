@@ -1,4 +1,5 @@
-Project:Credit Card Transaction and Customer Dashboard using Power BI
+**Project:Credit Card Transaction and Customer Dashboard using Power BI**
+
 This project presents an interactive Credit Card Customer Analytics Dashboard built in Power BI to analyze customer revenue, income, spending behavior, and demographic patterns.
 The dashboard provides a comprehensive view of customer financial performance through key KPIs and interactive visualizations. It helps identify revenue trends across gender, age groups, customer jobs, states, salary groups, education levels, marital status, and dependent counts.
 
